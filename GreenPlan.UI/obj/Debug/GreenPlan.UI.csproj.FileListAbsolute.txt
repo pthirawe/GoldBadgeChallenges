@@ -1,0 +1,11 @@
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\GreenPlan.UI\bin\Debug\GreenPlan.UI.exe.config
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\GreenPlan.UI\bin\Debug\GreenPlan.UI.exe
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\GreenPlan.UI\bin\Debug\GreenPlan.UI.pdb
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\GreenPlan.UI\bin\Debug\06_KomodoGreenPlan.Repository.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\GreenPlan.UI\bin\Debug\06_KomodoGreenPlan.Repository.pdb
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\GreenPlan.UI\obj\Debug\GreenPlan.UI.csproj.AssemblyReference.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\GreenPlan.UI\obj\Debug\GreenPlan.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\GreenPlan.UI\obj\Debug\GreenPlan.UI.csproj.CoreCompileInputs.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\GreenPlan.UI\obj\Debug\GreenPlan.UI.csproj.CopyComplete
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\GreenPlan.UI\obj\Debug\GreenPlan.UI.exe
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\GreenPlan.UI\obj\Debug\GreenPlan.UI.pdb

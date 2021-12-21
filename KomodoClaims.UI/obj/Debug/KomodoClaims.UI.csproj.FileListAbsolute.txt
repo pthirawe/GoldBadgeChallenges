@@ -1,0 +1,11 @@
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.csproj.AssemblyReference.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.csproj.CoreCompileInputs.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\KomodoClaims.UI\bin\Debug\KomodoClaims.UI.exe.config
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\KomodoClaims.UI\bin\Debug\KomodoClaims.UI.exe
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\KomodoClaims.UI\bin\Debug\KomodoClaims.UI.pdb
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\KomodoClaims.UI\bin\Debug\02_KomodoClaims.Repository.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\KomodoClaims.UI\bin\Debug\02_KomodoClaims.Repository.pdb
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.csproj.CopyComplete
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.exe
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.pdb

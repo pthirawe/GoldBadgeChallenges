@@ -1,0 +1,6 @@
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\02_KomodoClaims.Repository\bin\Debug\02_KomodoClaims.Repository.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\02_KomodoClaims.Repository\bin\Debug\02_KomodoClaims.Repository.pdb
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\02_KomodoClaims.Repository.csproj.AssemblyReference.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\02_KomodoClaims.Repository.csproj.CoreCompileInputs.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\02_KomodoClaims.Repository.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\02_KomodoClaims.Repository\obj\Debug\02_KomodoClaims.Repository.pdb

@@ -1,0 +1,6 @@
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan.Repository\bin\Debug\06_KomodoGreenPlan.Repository.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan.Repository\bin\Debug\06_KomodoGreenPlan.Repository.pdb
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan.Repository\obj\Debug\06_KomodoGreenPlan.Repository.csproj.AssemblyReference.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan.Repository\obj\Debug\06_KomodoGreenPlan.Repository.csproj.CoreCompileInputs.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan.Repository\obj\Debug\06_KomodoGreenPlan.Repository.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan.Repository\obj\Debug\06_KomodoGreenPlan.Repository.pdb
