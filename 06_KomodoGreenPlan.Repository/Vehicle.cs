@@ -27,6 +27,7 @@ namespace _06_KomodoGreenPlan.Repository
 
         // Add Other properties as necessary
         /*
+        public double 
         public double FuelEconomy { get; set; }
         public double MSRP { get; set; }
         */

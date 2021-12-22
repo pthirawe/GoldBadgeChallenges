@@ -15,6 +15,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_KomodoClaims.Repository"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoClaims.UI", "KomodoClaims.UI\KomodoClaims.UI.csproj", "{E743A93A-D93C-45AF-AFB9-52EEB8CC1552}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenPlanTests", "GreenPlanTests\GreenPlanTests.csproj", "{308B8349-42E6-450E-B42B-166B774E0B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafeTests", "KomodoCafeTests\KomodoCafeTests.csproj", "{90CF4B5E-4C7F-4EED-B367-51B8B23D561D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoClaimsTests", "KomodoClaimsTests\KomodoClaimsTests.csproj", "{08441DA7-B1BA-4CEF-AD12-8807DC24523B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +51,18 @@ Global
 		{E743A93A-D93C-45AF-AFB9-52EEB8CC1552}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E743A93A-D93C-45AF-AFB9-52EEB8CC1552}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E743A93A-D93C-45AF-AFB9-52EEB8CC1552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{308B8349-42E6-450E-B42B-166B774E0B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308B8349-42E6-450E-B42B-166B774E0B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308B8349-42E6-450E-B42B-166B774E0B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308B8349-42E6-450E-B42B-166B774E0B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90CF4B5E-4C7F-4EED-B367-51B8B23D561D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90CF4B5E-4C7F-4EED-B367-51B8B23D561D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90CF4B5E-4C7F-4EED-B367-51B8B23D561D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90CF4B5E-4C7F-4EED-B367-51B8B23D561D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08441DA7-B1BA-4CEF-AD12-8807DC24523B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08441DA7-B1BA-4CEF-AD12-8807DC24523B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08441DA7-B1BA-4CEF-AD12-8807DC24523B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08441DA7-B1BA-4CEF-AD12-8807DC24523B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

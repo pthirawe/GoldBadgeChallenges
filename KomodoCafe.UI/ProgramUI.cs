@@ -95,6 +95,8 @@ namespace KomodoCafe.UI
             {
                 Console.WriteLine("Please enter a valid number.");
             }
+            //Correct for list indexing
+            toRemove--;
             DisplayMenuItemDetails(_menuRepo.GetMenuItem(toRemove));
             Console.WriteLine("Remove this item?");
             if(!ConfirmSelection())

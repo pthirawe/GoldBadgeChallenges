@@ -63,6 +63,7 @@ namespace GreenPlan.UI
 
         public void ListVehicles()
         {
+            string userInput;
             List<Vehicle> vehicleList = new List<Vehicle>();
             bool isValid = false;
 
@@ -73,9 +74,9 @@ namespace GreenPlan.UI
                 "4. List All Vehicles.\n" +
                 "0. Cancel.");
 
-            string userInput = Console.ReadLine();
             do
             {
+                userInput = Console.ReadLine();
                 switch (userInput)
                 {
                     case "0":

@@ -26,19 +26,19 @@ namespace _01_KomodoCafe.Repository
         }
         public MenuItem GetMenuItem(int index)
         {
-            if(index-1 < 0 || index > _menuList.Count)
+            if(index < 0 || index > _menuList.Count)
             {
                 return null;
             }
-            return _menuList[index-1];
+            return _menuList[index];
         }
         public bool RemoveMenuItem(int toDelete)
         {
-            if (toDelete-1 < 0 || toDelete > _menuList.Count)
+            if (toDelete < 0 || toDelete > _menuList.Count)
             {
                 return false;
             }
-            _menuList.RemoveAt(toDelete-1);
+            _menuList.RemoveAt(toDelete);
             foreach(MenuItem item in _menuList)
             {
                 item.MealNumber = _menuList.IndexOf(item)+1;
